@@ -1,14 +1,14 @@
 {
-  "name": "fontViewer",
+  "name": "font View",
   "publisher": "Laurent Legoux",
   "short_description": "Show all Fonts",
   "long_description": "Show all installed fonts and glyphs",
-  "fullname": "fontViewer",
+  "fullname": "fontviewer",
   "version": "0.1.0",
   "category": "development",
   "activities": [
     {
-      "entrypoint": "fontViewer.py",
+      "entrypoint": "fontviewer.py",
       "classname": "fontViewer",
       "intent_filters": [
         {
